@@ -18,10 +18,16 @@
 
 ## Huấn luyện mô hình
 - Chạy `model_LSTM_Animal.ipynb` để huấn luyện mô hình LSTM.
+- Sử dụng phương pháp transfer learning để đào tạo lớp cuối cùng của mô hình ResNet50 và VGG16
+  ![image](https://github.com/user-attachments/assets/15970fe8-034c-4b2c-b5d8-3a6c75720c0c)
+  ![image](https://github.com/user-attachments/assets/1656c82f-1c7d-4cce-93bf-3c02707dde73)
+
 - Huấn luyện mô hình CNN (ResNet, VGG) trong `function_And_Class.ipynb` và lưu trọng số.
+
 ## So sánh hai mô hình
 ![image](https://github.com/user-attachments/assets/21c88c6a-730c-4285-b163-eacf466212ff)
 - Mô hình ResNet50 có thời gian đào tạo thấp hơn nhiều và độ chính xác nhỉnh hơn một chút so với mô hình VGG16
+-> Sử dụng mô hình ResNet50 để đưa ra dự đoán
 
 ## Giao diện dự đoán
 - Mở `giao_Dien_Animal.ipynb` để khởi chạy giao diện.
