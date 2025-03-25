@@ -1,7 +1,7 @@
 # Animal Classification Project
 
 ## Giới thiệu
-Đây là dự án phân loại động vật sử dụng mô hình học sâu. Dự án bao gồm các bước tiền xử lý dữ liệu, huấn luyện mô hình và triển khai giao diện trực quan để dự đoán hình ảnh động vật.
+Đây là dự án phân loại động vật sử dụng mô hình ResNet50 và VGG16. Dự án bao gồm các bước tiền xử lý dữ liệu, huấn luyện mô hình và triển khai giao diện trực quan để dự đoán hình ảnh động vật.
 
 ## Cấu trúc thư mục
 - `bien_URL.ipynb`: Chứa danh sách URL hình ảnh và cách tải về dữ liệu.
