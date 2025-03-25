@@ -25,7 +25,7 @@
 - Huấn luyện mô hình CNN (ResNet, VGG) trong `function_And_Class.ipynb` và lưu trọng số.
 
 ## So sánh hai mô hình
-![image](https://github.com/user-attachments/assets/21c88c6a-730c-4285-b163-eacf466212ff)
+![image](https://github.com/user-attachments/assets/a66ea0b1-3dfc-4042-a81b-b901eb5411cb)
 - Mô hình ResNet50 có thời gian đào tạo thấp hơn nhiều và độ chính xác nhỉnh hơn một chút so với mô hình VGG16
 -> Sử dụng mô hình ResNet50 để đưa ra dự đoán
 
