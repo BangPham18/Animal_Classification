@@ -12,17 +12,6 @@
 - `model_resnet.pth`: Trọng số mô hình ResNet đã huấn luyện.
 - `model_vgg.pth`: Trọng số mô hình VGG đã huấn luyện.
 
-## Cách cài đặt
-1. Clone repository:
-   ```bash
-   git clone https://github.com/your-repo/animal_classification.git
-   cd animal_classification
-   ```
-2. Cài đặt thư viện cần thiết:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
 ## Xử lý dữ liệu
 - Chạy `bien_URL.ipynb` để tải dữ liệu từ URL.
 - Sử dụng `function_And_Class.ipynb` để tiền xử lý dữ liệu và tạo tập huấn luyện.
