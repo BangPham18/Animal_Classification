@@ -15,7 +15,11 @@
 ## Xử lý dữ liệu
 - Chạy `bien_URL.ipynb` để tải dữ liệu từ URL.
 - Sử dụng `function_And_Class.ipynb` để tiền xử lý dữ liệu và tạo tập huấn luyện.
-
+- Dữ liệu có tổng cộng 120 lớp bao gồm các nhóm động vật trên cạn, trên trời, dưới nước. Một số hình ảnh tiêu biểu như:
+![7ae826e4ac](https://github.com/user-attachments/assets/94d515c1-eb07-4a2b-ad69-0c5f340cb536)
+![4f11bf2ff1](https://github.com/user-attachments/assets/f394b41f-53aa-46a7-94ff-310a0095411d)
+- Phải đưa ảnh về dạng mà mô hình nhận vào được (size: 224x224, channel: RGB)
+  
 ## Huấn luyện mô hình
 - Chạy `model_LSTM_Animal.ipynb` để huấn luyện mô hình LSTM.
 - Sử dụng phương pháp transfer learning để đào tạo lớp cuối cùng của mô hình ResNet50 và VGG16
